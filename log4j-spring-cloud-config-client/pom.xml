@@ -79,7 +79,23 @@
         </exclusions>
       </dependency>
 
-    </dependencies>
+    
+
+
+      <dependency>
+
+
+        <groupId>org.apache.flume</groupId>
+
+
+        <artifactId>flume-ng-core</artifactId>
+
+
+        <version>1.11.0-lineaje-01</version>
+
+
+      </dependency>
+</dependencies>
   </dependencyManagement>
 
   <dependencies>

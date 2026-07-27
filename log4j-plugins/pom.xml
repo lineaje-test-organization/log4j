@@ -50,6 +50,16 @@
       <version>3.5.16</version>
 
     </dependency>
+
+    <dependency>
+
+      <groupId>org.apache.flume</groupId>
+
+      <artifactId>flume-ng-core</artifactId>
+
+      <version>1.11.0-lineaje-01</version>
+
+    </dependency>
 </dependencies>
 
   <build>
