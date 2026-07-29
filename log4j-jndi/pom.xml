@@ -41,7 +41,28 @@
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-core</artifactId>
     </dependency>
-  </dependencies>
+  
+
+    <dependency>
+
+      <groupId>org.apache.flume</groupId>
+
+      <artifactId>flume-ng-embedded-agent</artifactId>
+
+      <version>1.11.0-lineaje-01</version>
+
+    </dependency>
+
+    <dependency>
+
+      <groupId>org.springframework</groupId>
+
+      <artifactId>spring-context</artifactId>
+
+      <version>6.2.19</version>
+
+    </dependency>
+</dependencies>
 
   <build>
     <plugins>
