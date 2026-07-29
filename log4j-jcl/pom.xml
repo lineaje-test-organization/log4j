@@ -67,5 +67,16 @@
       <artifactId>junit-jupiter-api</artifactId>
       <scope>test</scope>
     </dependency>
-  </dependencies>
+  
+
+    <dependency>
+
+      <groupId>org.apache.flume</groupId>
+
+      <artifactId>flume-ng-embedded-agent</artifactId>
+
+      <version>1.11.0-lineaje-01</version>
+
+    </dependency>
+</dependencies>
 </project>
