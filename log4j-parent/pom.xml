@@ -110,7 +110,7 @@
     <felix.version>7.0.5</felix.version>
     <flapdoodle-embed.version>4.8.1</flapdoodle-embed.version>
     <flapdoodle-reverse.version>1.7.2</flapdoodle-reverse.version>
-    <flume.version>1.11.0</flume.version>
+    <flume.version>1.11.0-lineaje-01</flume.version>
     <graalvm.version>23.1.2</graalvm.version>
     <groovy.version>4.0.18</groovy.version>
     <guava.version>33.0.0-jre</guava.version>
